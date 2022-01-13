@@ -1,0 +1,9 @@
+
+ALGORITHM
+
+1.Fetch the latest sensor value from the Bolt device.
+2.Check if the sensor value is in the range specified in our min and max values.
+3.If it is not in range, send the SMS.
+4.Wait for 10 seconds.
+5.Repeat from step 1.
+
